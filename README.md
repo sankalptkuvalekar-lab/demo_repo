@@ -1,4 +1,4 @@
-# demo_repo
+cd # demo_repo
 This is my first git repository
 <br>
-Author - Sankalp
+Author - Sankalp (kuvalekar)
